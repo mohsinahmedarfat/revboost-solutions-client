@@ -105,37 +105,4 @@
 
 ---
 
-## Contribution
-
-We welcome contributions to improve RevBoost Solutions! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push to your branch.
-   ```bash
-   git add .
-   git commit -m "Add your message here"
-   git push origin feature-name
-   ```
-4. Create a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-For questions or support, contact us at: 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
-
----
-
 **RevBoost Solutions** - Empowering businesses for better financial management.
